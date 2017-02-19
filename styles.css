@@ -1,0 +1,13 @@
+/* add your CSS here */
+.card {
+  border: 1px solid #c0c5ce;
+  box-shadow: 10px 7px 11px 0px rgba(0, 0, 0, 0.1);
+  width: 320px;
+  padding: 0px 25px;
+}
+
+.infos {
+  border: 1px solid #c0c5ce;
+  margin: 15px 0px;
+  padding: 0px 10px; 
+}
