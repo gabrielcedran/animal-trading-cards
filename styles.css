@@ -2,12 +2,35 @@
 .card {
   border: 1px solid #c0c5ce;
   box-shadow: 10px 7px 11px 0px rgba(0, 0, 0, 0.1);
-  width: 320px;
-  padding: 0px 25px;
+  width: 300px;
+  padding: 0px 15px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
+
+.card img {
+  width: 300px;
+  border-radius: 5px;
+}
+
+.interesting-fact {
+  font-style: italic;
 }
 
 .infos {
   border: 1px solid #c0c5ce;
   margin: 15px 0px;
-  padding: 0px 10px; 
+  width: 280px;
+  padding: 0px 10px;
+  background-color: #eff0f2;
+  border-radius: 5px;
+}
+
+.infos ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.infos > ul > li > span {
+  font-weight: bold;
 }
